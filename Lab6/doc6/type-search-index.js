@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Nikolenko.Lab6","l":"StackApp"},{"p":"KI305.Nikolenko.Lab6","l":"text"},{"p":"KI305.Nikolenko.Lab6","l":"Variable"}];updateSearchResults();
